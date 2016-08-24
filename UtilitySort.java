@@ -71,7 +71,12 @@ public class UtilitySort {
 		}// ends outer for loop
 
 		// return the array
+		for(String x: array){
+			x+="haha\n";
+			System.out.println(x);
+		}
 		return array;
+		
 	}
 
 	/**
