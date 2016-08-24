@@ -21,6 +21,7 @@ public class UtilitySearch {
 	 *         not found
 	 */
 	private static int binarySearch(int[] array, int key) {
+		//more comments and such
 
 		int firstIndex = 0; // first index of the array
 		int lastIndex = array.length - 1; // last index of array
